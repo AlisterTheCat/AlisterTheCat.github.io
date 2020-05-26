@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Memorial Project</title>
+        <meta charset="utf-8">
+        <style>
+		body {
+			background-image: url('Memorial-img.jpg');
+			opacity: 1;
+			}
+		h2 {
+		   background: rgb(0, 0, 255);
+			width: 70%;
+			color: white;
+			}
+		p {
+            	background-color: rgb(255, 0, 0);
+			width: 70%;
+			color: white;
+        		}	
+		li {
+			color: white;
+			background-color: white;
+			width: 70%;
+		}
+		h1 {
+			color: rgb(255, 0, 0);
+        </style>
+    </head>
+    <body>
+
+       <h1>The National Memorial for Children of Deceased Warriors</h1>
+
+        <h2>Contents:</h2>
+        <ol>
+            <li><a href="#Dsoup">Children of Decease 					Warriors</a></li>
+            <li><a href="#Esoup">By the Numbers</a></li>
+            <li><a href="#Fsoup">The Home Front</a></li>
+        </ol>
+
+      <h2 id="Dsoup"> Children of Deceased Warriors</h2>
+
+        <p><strong>Children have lost parents in wars due to acts of violence and cruelty. It is our responsiblity to look after these children. We can do this by giving to the Food Banks of America and all around the world, and also letting them into our homes and hearts.  I would like to thank the people who have already done this.<stroung></p>
+
+        <img src="C:\Users\daved\OneDrive\Pictures\Quentin\ws_war_zone_children.jpg" width=300 border="5">
+
+	<h2 id="Esoup"> By the Numbers</h2>
+
+	   <p><strong>According to the New York Times, an estimated 1,600 children have lost a parent, almost all of them fathers, to the wars in Afghanistan and Iraq.<strong></p>
+
+        <img src="C:\Users\daved\OneDrive\Pictures\Quentin\Injured-Soldier.jpg" width=300 border="5">
+
+	<h2 id="Fsoup"> The Home Front </h2>
+
+        <p><strong>Kids miss their parents due to struggles caused by war.  These struggles include loneliness, lack of food, depression, and not having homes.<stroung></p>
+
+        <img src="C:\Users\daved\OneDrive\Pictures\Quentin\Depressed-kids.jpg" width=300 border="5">
+
+     
+	
+	
+    </body>
+</html>
